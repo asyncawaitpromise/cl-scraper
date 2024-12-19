@@ -10,7 +10,7 @@ Disclaimer
 
 * I don't work for or have any affiliation with Craigslist.
 * This module was implemented for educational purposes. It should not be used for crawling or downloading data from Craigslist.
-* This is a fork of the pip package by Julio M Alegria. This version uses a headless version of chrome for more accurate parsing
+* This is a fork of the repo by f3mshep, subsequently a fork the pip package by Julio M Alegria. This version uses a headless version of chrome for more accurate parsing
 * of data that is generated dynamically via JavaScript
 
 Installation
